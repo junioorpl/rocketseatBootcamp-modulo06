@@ -1,0 +1,43 @@
+dependencies: \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Unicode.cpp \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Unicode.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Conv.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/DoubleConversion/double-conversion/double-conversion.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/DoubleConversion/double-conversion/utils.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Demangle.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/FBString.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Portability.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/CPortability.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Traits.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/hash/Hash.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Utility.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/functional/ApplyTuple.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/functional/Invoke.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/hash/SpookyHashV1.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/lang/Bits.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/ConstexprMath.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/lang/Assume.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/portability/Builtins.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/memory/Malloc.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Expected.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Likely.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Optional.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Unit.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Range.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/portability/Constexpr.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/portability/String.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/CpuId.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/detail/RangeCommon.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/glog/glog/logging.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/glog/glog/log_severity.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/glog/glog/vlog_is_on.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/detail/RangeSse42.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/portability/Math.h

@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.mm \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Target\ Support\ Files/ReactCommon/ReactCommon-prefix.pch \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTModuleMethod.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTBridgeMethod.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTNullability.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-cxxreact/cxxreact/MessageQueueThread.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTCxxConvert.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Headers/Public/React-Core/React/RCTManagedPointer.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/node_modules/react-native/ReactCommon/turbomodule/core/LongLivedObject.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/node_modules/react-native/ReactCommon/turbomodule/core/TurboModuleUtils.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Optional.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Portability.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/CPortability.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Traits.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/Utility.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/euripedescabral/Desktop/Scripts/Rocketseat/OmnistackBootcamp/ReactNative/modulo06/modulo06/ios/Pods/Folly/folly/CppAttributes.h
